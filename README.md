@@ -44,4 +44,4 @@ The project aims to develop a robust recommendation system for investment decisi
 - PowerBI was utilized for creating an interactive and visually appealing infographic, offering a comprehensive overview of investment patterns and demographic correlations.
 - Streamlit was employed to develop a user-friendly interface for interactive data input, allowing users to seamlessly input data and obtain real-time predictions of risk levels based on the machine learning model.
 
-![Sample Image](po.png)
+![Sample Image](powerBI_dashboard.jpg)
